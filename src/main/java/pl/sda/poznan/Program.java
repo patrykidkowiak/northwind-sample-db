@@ -13,5 +13,4 @@ public class Program {
         entityManager.getTransaction().begin();
         entityManager.getTransaction().commit();
     }
-
 }
