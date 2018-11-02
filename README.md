@@ -1,6 +1,7 @@
-#NorthWind
+# NorthWind
 sample NorthWind database implementation
-###built with:
+
+## built with:
 * mysql
 * hiberante
 * maven
